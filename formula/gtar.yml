@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.34 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/gtar-1.34-linux-riscv64.tar.xz 
+bin-sha: cee8064e78ecc1fd11db48b0d0618fcbd6e41f0773c1c28b515bad5ea8fd794b

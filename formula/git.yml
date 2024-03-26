@@ -1,0 +1,5 @@
+summary: Distributed revision control system
+webpage: https://git-scm.com/
+version: 2.41.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/git-2.41.0-linux-riscv64.tar.xz 
+bin-sha: 362ec1ecd773879d0c4629e2ab58b3b712344e6f95e4a1bdf2a405c85145ddf1

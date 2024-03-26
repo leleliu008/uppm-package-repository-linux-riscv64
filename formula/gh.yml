@@ -1,0 +1,5 @@
+summary: GitHub command-line tool
+webpage: https://github.com/cli/cli
+version: 2.31.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/gh-2.31.0-linux-riscv64.tar.xz 
+bin-sha: 70dbd5cae829c21bd95520fe25ceaae617146d29157e868077a66336d1f83345

@@ -1,0 +1,5 @@
+summary: Utility to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.44 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/file-5.44-linux-riscv64.tar.xz 
+bin-sha: cd77e5b12372538c299fa539c6ec44e425e978db498a287959d4874316d69603

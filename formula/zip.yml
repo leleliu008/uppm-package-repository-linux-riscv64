@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.11 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/zip-3.0.11-linux-riscv64.tar.xz 
+bin-sha: 848ad1d80748f406d68ce38f55b7659278e3883f9a19c9b9d1fa74cb4f1bd8aa

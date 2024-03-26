@@ -1,0 +1,5 @@
+summary: Collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.39 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/util-linux-2.39-linux-riscv64.tar.xz 
+bin-sha: 3d889394e2a90ddc65255eb1809ac85275b931e05f11cb6fec788c434a5e8bcd

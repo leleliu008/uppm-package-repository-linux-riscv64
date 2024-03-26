@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.19 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/ed-1.19-linux-riscv64.tar.xz 
+bin-sha: 53ba81e1eb519facf0130f31a5af44ed89d9a381b7cfff62124f313e593a91bf

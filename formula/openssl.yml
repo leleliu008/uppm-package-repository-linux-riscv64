@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.1.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/openssl-3.1.1-linux-riscv64.tar.xz 
+bin-sha: 434fe939943762baff60fc5ce28c59708e16473232a5e66f58076e9a95daba3a

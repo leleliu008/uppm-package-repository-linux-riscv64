@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.21.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/gettext-tools-0.21.1-linux-riscv64.tar.xz 
+bin-sha: ed5ada6da06fd8e70a416429a6f1c2578ecab4150f111487ad27bb91efcd2b4c

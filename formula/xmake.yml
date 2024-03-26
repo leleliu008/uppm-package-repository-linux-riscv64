@@ -1,0 +1,5 @@
+summary: Cross-platform build utility based on Lua
+webpage: https://xmake.io/
+version: 2.7.9 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/xmake-2.7.9-linux-riscv64.tar.xz 
+bin-sha: 178f8f763f94883a173d3846ed35e1c84799aac002348b327bcae8f1a7f402c6

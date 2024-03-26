@@ -1,0 +1,5 @@
+summary: Burrows–Wheeler-based data compression utilities with high compression ratio
+webpage: https://sourceware.org/bzip2
+version: 1.0.8 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/bzip2-1.0.8-linux-riscv64.tar.xz 
+bin-sha: 170fc5ac8ed8f26fa0140a6b052df605a5e05e9115d02a8acc170094cbf73309

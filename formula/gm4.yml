@@ -1,0 +1,5 @@
+summary: Macro processing language
+webpage: https://www.gnu.org/software/m4
+version: 1.4.19 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/gm4-1.4.19-linux-riscv64.tar.xz 
+bin-sha: 8f62d08b3addb31023161ee1ea42578d165c18cf54ba22b790bc57e04c9ddccf

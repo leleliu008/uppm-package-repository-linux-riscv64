@@ -1,0 +1,5 @@
+summary: Small static webserver without CGI
+webpage: https://unix4lyfe.org/darkhttpd/
+version: 1.14 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/darkhttpd-1.14-linux-riscv64.tar.xz 
+bin-sha: 611e22644d11c05775fb01b56e12f320928dc88945a4a4892c4f114952ba183e

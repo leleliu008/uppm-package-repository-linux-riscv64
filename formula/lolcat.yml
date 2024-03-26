@@ -1,0 +1,5 @@
+summary: Rainbows and unicorns in your console
+webpage: https://github.com/jaseg/lolcat
+version: 1.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/lolcat-1.4-linux-riscv64.tar.xz 
+bin-sha: d5cf7c4e0d1900b6e4300ba1fea8b2665efeabda34e9e8d44bf0fdfdb2da47d0

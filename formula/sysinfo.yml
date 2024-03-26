@@ -1,0 +1,5 @@
+summary: a command-line tool to get your system information.
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.06.28 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/sysinfo-2023.06.28-linux-riscv64.tar.xz 
+bin-sha: 2696ec5b87daf06257991abe439da2196d3f1007a68b79e326e20a7b0ea91b28
