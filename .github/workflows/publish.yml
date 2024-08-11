@@ -34,21 +34,10 @@ jobs:
 
           run wget https://raw.githubusercontent.com/leleliu008/ppkg/master/ppkg
           run chmod a+x ppkg
-          run ./ppkg setup --use-system-package-manager
+          run ./ppkg setup --syspm
           run ./ppkg update
-          run ./ppkg install ${{ matrix.pkg }} --link-type=static-full
-
-          if [ -d ~/.ppkg/installed/${{ matrix.pkg }}/include ] ; then
-              rm -rf               ~/.ppkg/installed/${{ matrix.pkg }}/include
-              sed -i '/|include/d' ~/.ppkg/installed/${{ matrix.pkg }}/.ppkg/MANIFEST.txt
-          fi
-
-          if [ -d ~/.ppkg/installed/${{ matrix.pkg }}/lib ] ; then
-              rm -rf           ~/.ppkg/installed/${{ matrix.pkg }}/lib
-              sed -i '/|lib/d' ~/.ppkg/installed/${{ matrix.pkg }}/.ppkg/MANIFEST.txt
-          fi
-
-          ./ppkg pack ${{ matrix.pkg }} -o .
+          run ./ppkg install ${{ matrix.pkg }} --static
+          run ./ppkg pack    ${{ matrix.pkg }} --exclude include/ --exclude lib/
 
 
           PACKAGE_SUMMARY="\$(./ppkg info-installed ${{ matrix.pkg }} summary)"
