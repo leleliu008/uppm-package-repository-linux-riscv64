@@ -1,5 +1,0 @@
-summary: utilities provided by libxml2
-webpage: http://xmlsoft.org
-version: 2.10.3 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/libxml2-utils-2.10.3-linux-riscv64.tar.xz 
-bin-sha: 247ddb8e154a31e352870a86801be414f5a147c94bcd708380df0c83f83aa6fc
