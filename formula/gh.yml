@@ -1,5 +1,5 @@
-summary: GitHub command-line tool
+summary: A command-line interface that brings github.com functionality to your terminal
 webpage: https://github.com/cli/cli
-version: 2.31.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/gh-2.31.0-linux-riscv64.tar.xz 
-bin-sha: 70dbd5cae829c21bd95520fe25ceaae617146d29157e868077a66336d1f83345
+version: 2.51.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/gh-2.51.0-linux-riscv64.tar.xz
+bin-sha: d1f52e6d633ee2b0591be2cfd6e4c8b2fce4db64acfa61d6879d8f8f3994941a

@@ -1,0 +1,5 @@
+summary: Kubernetes package manager
+webpage: https://helm.sh/
+version: 3.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/helm-3.15.3-linux-riscv64.tar.xz
+bin-sha: aaa09a5bac40e0f8073fbe2e9b287f5eea3204fddd0a5912af908e3f3784bc3d

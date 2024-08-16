@@ -1,5 +1,5 @@
-summary: a collections of easy to use command-line utilities
+summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2023.06.28 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/easyutils-2023.06.28-linux-riscv64.tar.xz 
-bin-sha: 2e6fc1c5ee079148574a5aa30bf05f49cc12b38229735b4daf6af1741bd0c435
+version: 2024.08.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/easyutils-2024.08.15-linux-riscv64.tar.xz
+bin-sha: 6deb7d6e453884417de4509152e1453cf00196eb10035542b4215951e2307403

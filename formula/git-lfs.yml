@@ -1,0 +1,5 @@
+summary: A git extension for versioning large files
+webpage: https://github.com/git-lfs/git-lfs
+version: 3.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/git-lfs-3.5.1-linux-riscv64.tar.xz
+bin-sha: 95d7e0e63b1b486b15f3cc02176092ebef7136b6ffc936afe46ec7615f498699

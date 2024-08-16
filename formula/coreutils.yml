@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
-version: 9.3 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/coreutils-9.3-linux-riscv64.tar.xz 
-bin-sha: 0546958564ef4b5f9c7d77af7f9e2d00304ea2b8210e0a994816cb2814a78da1
+version: 9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/coreutils-9.4-linux-riscv64.tar.xz
+bin-sha: ebaf1ac3c155ed47ce227364afa171f5cd2b2c6a70b83dbc5bf942fd923c428e

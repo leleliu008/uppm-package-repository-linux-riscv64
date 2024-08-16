@@ -1,5 +1,5 @@
 summary: BSD tar
 webpage: https://www.libarchive.org/
-version: 3.6.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/libarchive-3.6.2-linux-riscv64.tar.xz 
-bin-sha: ef3372ab900503ac7c6f645fd29f474b6bb27e54590903f32bbf4c6439497580
+version: 3.7.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/bsdtar-3.7.4-linux-riscv64.tar.xz
+bin-sha: 9c3de5671df69e2bb88d61558eb8c5b31eaa66ae8e48123fa56dd774e37bd402

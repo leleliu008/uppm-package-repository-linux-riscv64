@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
 webpage: https://github.com/leleliu008/uppm
-version: 0.12.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/uppm-0.12.0-linux-riscv64.tar.xz 
-bin-sha: bedfa753a0c6b7621a1141f57d22add80f64e12f1a33d3f8feb1f0535199b02e
+version: 0.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/uppm-0.17.0-linux-riscv64.tar.xz
+bin-sha: 56b37ce85d384d12267e040b9fc9e2b1051c7e19773c5b7849f2beb865680dd3

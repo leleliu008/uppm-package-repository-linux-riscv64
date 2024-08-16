@@ -1,0 +1,5 @@
+summary: A static analysis tool for C and C++
+webpage: https://sourceforge.net/projects/cppcheck
+version: 2.14.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/cppcheck-2.14.2-linux-riscv64.tar.xz
+bin-sha: 8f0a99d3e7472b7c790d19753e62a12d3323aaf28fafcb8a40f428a1be9a2ece

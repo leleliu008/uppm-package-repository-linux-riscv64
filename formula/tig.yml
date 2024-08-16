@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/tig-2.5.9-linux-riscv64.tar.xz
+bin-sha: e3132d575a8961f191fcf00b68ee6bf19680ef6571a009fee9388c5420a73e2f

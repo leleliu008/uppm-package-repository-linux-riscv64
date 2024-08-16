@@ -1,5 +1,5 @@
-summary: Core application library for C
+summary: A collection of tools for glib
 webpage: https://developer.gnome.org/glib
-version: 2.74.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/glib-tools-2.74.0-linux-riscv64.tar.xz 
-bin-sha: 3ea6c5204bcbea7efa25698f571b16ff0a07c170861a196515569e34616f0ce9
+version: 2.80.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/glib-tools-2.80.0-linux-riscv64.tar.xz
+bin-sha: 3a327ea861ce7ec1cc82cdc73740c345ec6cd72c0f8522f320e53e7a64783d79

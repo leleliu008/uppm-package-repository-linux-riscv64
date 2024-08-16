@@ -1,5 +1,5 @@
-summary: Small build system for use with gyp or CMake
+summary: A small build system with a focus on speed
 webpage: https://ninja-build.org/
-version: 1.11.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/ninja-1.11.1-linux-riscv64.tar.xz 
-bin-sha: 4df55267882beeb8ae9e5bb25b28fb59cee576624329d7e06d4c15775639e64b
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/ninja-1.11.1-linux-riscv64.tar.xz
+bin-sha: 03e97e0c062853be981739c68ee0eb43f965075240c0dc6fd0925a5f3ec93ade

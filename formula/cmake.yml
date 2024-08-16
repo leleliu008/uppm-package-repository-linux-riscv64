@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
-version: 3.26.4 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/cmake-3.26.4-linux-riscv64.tar.xz 
-bin-sha: de1519b9f5efbfc43e6a0a7d9dc501be3257befb48592a87313a06bbe8a97901
+version: 3.30.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/cmake-3.30.2-linux-riscv64.tar.xz
+bin-sha: eb9e4e58712d398ebe40399b58cd6c93649138f843818eb9fad6d0076ede0558
