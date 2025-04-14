@@ -114,22 +114,7 @@ jobs:
 
           these packages are statically linked against [musl-libc](https://musl.libc.org/).
 
-          these packages are relocatable which means that you can install them to anywhere.
-
-          ## Environment Variables
-
-          **following environment variables should be set for \`git\` package**
-
-          \`\`\`bash
-          export GIT_EXEC_PATH="\$GIT_INSTALL_DIR/libexec/git-core"
-          export GIT_TEMPLATE_DIR="\$GIT_INSTALL_DIR/share/git-core/templates"
-          \`\`\`
-
-          **following environment variables should be set for \`file\` package**
-
-          \`\`\`bash
-          export MAGIC="\$FILE_INSTALL_DIR/share/misc/magic.mgc"
-          \`\`\`
+          these packages are relocatable, you can install them to anywhere.
 
           ## sha256sum
 
