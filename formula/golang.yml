@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
-version: 1.22.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/golang-1.22.4-linux-musl-riscv64.tar.xz
-bin-sha: 0a9bb54a71826555a953b3f6b3e3d4f86c319d976cc800ce6687af6d5f213f55
+version: 1.24.4
+bin-url: https://go.dev/dl/go1.24.4.linux-riscv64.tar.gz
+bin-sha: 1d7034f98662d8f2c8abd7c700ada4093acb4f9c00e0e51a30344821d0785c77
