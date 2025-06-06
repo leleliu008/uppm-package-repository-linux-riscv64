@@ -1,0 +1,6 @@
+summary: a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
+webpage: https://ziglang.org/
+bin-url: https://ziglang.org/download/0.13.0/zig-riscv64-linux-0.13.0.tar.xz
+bin-sha: 9f7f3c685894ff80f43eaf3cad1598f4844ac46f4308374237c7f912f7907bb3
+version: 0.13.0
+unpackd: bin
