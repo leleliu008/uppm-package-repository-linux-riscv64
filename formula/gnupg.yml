@@ -1,5 +1,5 @@
 summary: GNU Pretty Good Privacy (PGP) package
 webpage: https://www.gnupg.org
 version: 2.4.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/gnupg-2.4.5-linux-riscv64.tar.xz
-bin-sha: dba013302f69311abf99301205ae77d5a4b32f345b3b087e5ca71bd533d64367
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/gnupg-2.4.5-linux-riscv64.release.tar.xz
+bin-sha: e7cae6160a7474f6bbe66128e0492c1e763d01ded2783139ee95477c1fb00f99

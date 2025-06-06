@@ -1,5 +1,5 @@
-summary: A command-line tool to get a file from an HTTP, HTTPS or FTP server
+summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
 version: 8.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/curl-8.9.1-linux-riscv64.tar.xz
-bin-sha: 6af256aca979c68aff35f9ccfd0cfbbf9f9519ca8f8305a7491dee00838d3e11
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/curl-8.9.1-linux-riscv64.release.tar.xz
+bin-sha: 8403bc42bb2c80b37572ddd28d761a128902a4f724cf3908f22c11f2bdf93253

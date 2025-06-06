@@ -1,5 +1,5 @@
 summary: A collections of command-line utilities provided by libxml2
 webpage: http://xmlsoft.org
-version: 2.12.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/xmlutils-2.12.7-linux-riscv64.tar.xz
-bin-sha: ddc868244ef22b7606b7031050815e4fe0ae9dc82859a34ba8c0e6a47670bf9a
+version: 2.13.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/xmlutils-2.13.5-linux-riscv64.release.tar.xz
+bin-sha: 4ef8bcdf724a63d8e3236f6948447e3a94f0e1ae7c12b434271f547ec18b5582

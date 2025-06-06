@@ -1,0 +1,5 @@
+summary: Git for Data
+webpage: https://github.com/dolthub/dolt
+version: 1.50.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/dolt-1.50.2-linux-riscv64.release.tar.xz
+bin-sha: 7713e0a6ee79d3f28149b2786f64161368106a6ecc1c8bc4e1b3fc09f6096768

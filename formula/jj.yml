@@ -1,0 +1,5 @@
+summary: A git-compatible distributed version control system
+webpage: https://github.com/martinvonz/jj
+version: 0.27.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/jj-0.27.0-linux-riscv64.release.tar.xz
+bin-sha: fd1df295d6a9011a28d23f64ce0aee0a7ba39e2715ad844bc05c08ae9554883b

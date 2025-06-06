@@ -1,5 +1,5 @@
 summary: base64 encoder and decoder
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.08.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/base64-2024.08.15-linux-riscv64.tar.xz
-bin-sha: 1ee1c7083ab2d33462b11a531cc91a2c0f3ea98d43941c3839ee3d192fca0dc7
+version: 2025.06.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/base64-2025.06.06-linux-riscv64.release.tar.xz
+bin-sha: 8cfa8ecb2cf950d49503066057f38cfaf5c9245393695c1e53ef2e14b2904193

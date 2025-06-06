@@ -1,5 +1,5 @@
-summary: a command-line tool for extracting zip-compressed archives(.zip files)
+summary: A command-line tool for extracting zip-compressed archives(.zip files)
 webpage: https://infozip.sourceforge.io/UnZip.html
-version: 6.0.28 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/unzip-6.0.28-linux-riscv64.tar.xz 
-bin-sha: f23edc6e23023622e6c49fbe3e61dcf7b679216bde5f29a5ad3698046f1223c9
+version: 6.0.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/unzip-6.0.28-linux-riscv64.release.tar.xz
+bin-sha: ce0fcd7853e7d634a1abf25bd77773b6a3459d4be702dbfa23eb9d5fbddd74a0

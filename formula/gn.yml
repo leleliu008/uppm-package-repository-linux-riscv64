@@ -1,0 +1,5 @@
+summary: A meta-build system that generates build files for ninja
+webpage: https://gn.googlesource.com/gn
+version: 2025.06.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/gn-2025.06.06-linux-riscv64.release.tar.xz
+bin-sha: 02a0a1af62c0af15c606d644a49b959ca76c48246ca8fb191e889dc91b10149b

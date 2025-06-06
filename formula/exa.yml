@@ -1,0 +1,5 @@
+summary: Modern replacement for ls(1)
+webpage: https://the.exa.website
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/exa-0.10.1-linux-riscv64.release.tar.xz
+bin-sha: 9088c596f97438479fdb0b4d93a15a75b93ba08a46920cf2f442f2bd2cb86030

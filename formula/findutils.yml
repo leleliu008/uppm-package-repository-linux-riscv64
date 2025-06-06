@@ -1,5 +1,5 @@
 summary: Collection of GNU find, xargs, and locate
 webpage: https://www.gnu.org/software/findutils
 version: 4.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/findutils-4.9.0-linux-riscv64.tar.xz
-bin-sha: 4d1bea64ba84cc2ff1dd20613a34cb4209a1c7ce225e08ddb91a700874895ac9
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/findutils-4.9.0-linux-riscv64.release.tar.xz
+bin-sha: 264360a40ddc1c72c437b63d08d32a770b63b706b283427f90e609599e3835d3

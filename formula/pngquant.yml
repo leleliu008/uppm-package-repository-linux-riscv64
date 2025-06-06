@@ -1,0 +1,5 @@
+summary: PNG image optimizing utility
+webpage: https://pngquant.org
+version: 3.0.3.crate
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/pngquant-3.0.3.crate-linux-riscv64.release.tar.xz
+bin-sha: 4ddc059b25f284f7bef40fbdfc1bde3502ef6fc6555b26f0f9a111bcbe5ffc00

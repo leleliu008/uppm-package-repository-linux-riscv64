@@ -1,0 +1,5 @@
+summary: A file archiver with a high compression ratio
+webpage: https://7-zip.org/
+version: 24.09
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/7zip-24.09-linux-riscv64.release.tar.xz
+bin-sha: 98f75386167ece216d5f0f459285fe54d0b31748917b96a175d18c2e5ed1c71e

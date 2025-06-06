@@ -1,0 +1,5 @@
+summary: A new type of shell
+webpage: https://www.nushell.sh
+version: 0.104.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/nushell-0.104.1-linux-riscv64.release.tar.xz
+bin-sha: 8ad6215965b60e6a74636f89000aeb0e646b08d8bfc79defdf49430033a70e97

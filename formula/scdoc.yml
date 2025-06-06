@@ -1,0 +1,5 @@
+summary: A small man page generator
+webpage: https://sr.ht/~sircmpwn/scdoc/
+version: 1.11.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/scdoc-1.11.3-linux-riscv64.release.tar.xz
+bin-sha: 4def3cdbe293878d5009573d0132b4911cde9cc9484785bce1c434056e8c1c4c

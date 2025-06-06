@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 2.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/pkgconf-2.1.1-linux-riscv64.tar.xz
-bin-sha: 50bc7ccedcc578f73a25371ac26ce5c5657c3bc408429be4edb7e0212b309544
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/pkgconf-2.3.0-linux-riscv64.release.tar.xz
+bin-sha: 2e886a7aad8e420c2c0a079b4da590029479871593e46ba684f10357924910ca

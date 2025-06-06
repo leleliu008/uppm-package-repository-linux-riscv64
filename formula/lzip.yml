@@ -1,5 +1,5 @@
 summary: LZMA-based compression program similar to gzip or bzip2
 webpage: https://www.nongnu.org/lzip
 version: 1.24.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/lzip-1.24.1-linux-riscv64.tar.xz
-bin-sha: ef86e629cde78c78d2582f8d8a24bf01cce41fc3e68e5e882a2b6146134b4aba
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/lzip-1.24.1-linux-riscv64.release.tar.xz
+bin-sha: 1a93b5a4641398b09256f66a7302c15a438b3165b4b8cc3f3f025eeb89035194

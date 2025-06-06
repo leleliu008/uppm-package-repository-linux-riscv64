@@ -1,5 +1,5 @@
 summary: A simple, fast container image builder for Go applications
 webpage: https://ko.build
 version: 0.16.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/ko-0.16.0-linux-riscv64.tar.xz
-bin-sha: 10e30a67bc7fc65b92ddbd26ba602e5936a4086789acbe2654cfada579710aa4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/ko-0.16.0-linux-riscv64.release.tar.xz
+bin-sha: db2bde769dd2a3c5e5fffdf629fb7685fde0e3808574143755a25b3aba40657c

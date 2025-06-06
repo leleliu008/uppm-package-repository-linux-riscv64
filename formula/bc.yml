@@ -1,5 +1,5 @@
 summary: Arbitrary precision numeric processing language
 webpage: https://www.gnu.org/software/bc
 version: 1.07.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/bc-1.07.1-linux-riscv64.tar.xz
-bin-sha: 7f66e2f819b024be778eda6918b7bd278f21a56b9c5ed4a06c8a02c39858ed48
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/bc-1.07.1-linux-riscv64.release.tar.xz
+bin-sha: c29181ee1261861a34fd7f1ef2b0e8617157ac4785e9d8b6bb4ea987c61c40f2

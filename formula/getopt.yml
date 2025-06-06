@@ -1,5 +1,5 @@
 summary: A command-line option parsing utility
 webpage: https://github.com/util-linux/util-linux
-version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/getopt-2.40.2-linux-riscv64.tar.xz
-bin-sha: 2ecb9d8011fccf6d5789b852ea1b836e471a877026f133181cfe22b6a1b099e6
+version: 2.40.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/getopt-2.40.4-linux-riscv64.release.tar.xz
+bin-sha: 105361573f1b0c74ba164d1b6a7299bae067da5dfca20fe158d875a76690c457

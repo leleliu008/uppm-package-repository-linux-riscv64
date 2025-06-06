@@ -1,5 +1,5 @@
 summary: Bourne-Again SHell, a UNIX command interpreter
 webpage: https://www.gnu.org/software/bash
-version: 5.2.21
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/bash-5.2.21-linux-riscv64.tar.xz
-bin-sha: ce02287c96adeafaa72dd1db2f7a9de453ded46eb63bb368fd8342dd5728e3ab
+version: 5.2.37
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/bash-5.2.37-linux-riscv64.release.tar.xz
+bin-sha: b1d2e47f15f8233b8fa70d89cb2628af2c109b4d4a2f7bf8153f7b084ca877f5

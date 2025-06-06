@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.7.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/patch-2.7.6-linux-riscv64.tar.xz
-bin-sha: 087f39c576fdc2710453e23fa95319212b19aad05648657f35011e881bb32b90
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/patch-2.7.6-linux-riscv64.release.tar.xz
+bin-sha: 12d928d2c091f50c44602d8ddef8cc555f7b2cd910a4ed07c8852485809a93e6

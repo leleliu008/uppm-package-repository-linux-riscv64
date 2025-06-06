@@ -1,0 +1,5 @@
+summary: Clone of cat(1) with syntax highlighting and Git integration
+webpage: https://github.com/sharkdp/bat
+version: 0.25.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/bat-0.25.0-linux-riscv64.release.tar.xz
+bin-sha: cd886fcd0f30a343dd84464bb88d506f8e88cd88a1c4e0cbcd1aa1119b42d8ba

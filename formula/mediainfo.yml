@@ -1,5 +1,5 @@
 summary: A convenient unified display of the most relevant technical and tag data for video and audio files
 webpage: https://mediaarea.net/
 version: 24.06
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/mediainfo-24.06-linux-riscv64.tar.xz
-bin-sha: b9b9216bd9090b46527236ec1932c6f9e2ea5051d5c11befd88c7c19c3966f76
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/mediainfo-24.06-linux-riscv64.release.tar.xz
+bin-sha: 94ca231476a95f99de799337c21802ccc84162aeaf6cc802d12db57be11525e9

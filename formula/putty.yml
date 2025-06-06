@@ -1,5 +1,5 @@
 summary: Implementation of Telnet and SSH
 webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 version: 0.80
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/putty-0.80-linux-riscv64.tar.xz
-bin-sha: 8cf523b122b29007d244ac905f2f340a22ca85de0e4a2d16268c9bf6be10c6ea
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/putty-0.80-linux-riscv64.release.tar.xz
+bin-sha: 7dbb71ab2fc5e48fd3b429b19356d7dc209e53e77f16dbd9b8a92d3b876d8a03

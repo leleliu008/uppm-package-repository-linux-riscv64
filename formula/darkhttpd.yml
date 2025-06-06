@@ -1,5 +1,5 @@
 summary: A small static web server without CGI
 webpage: https://unix4lyfe.org/darkhttpd/
 version: 1.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/darkhttpd-1.16-linux-riscv64.tar.xz
-bin-sha: 5f9ca9425fc60ac03420c5fce2e736698722ecbe482372631d888f203bc1a0d1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/darkhttpd-1.16-linux-riscv64.release.tar.xz
+bin-sha: 1b600431060d6b3dcd455a665d137b83963ae3bcb6e60f7df372d4d3b1afd414

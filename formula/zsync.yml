@@ -1,5 +1,5 @@
 summary: File transfer program
 webpage: http://zsync.moria.org.uk/
 version: 0.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/zsync-0.6.2-linux-riscv64.release.tar.xz
-bin-sha: 8c35d34d3fc99a080ba73430627ef2aac7e1fbadabedb18cb715eb1543f1665f
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/zsync-0.6.2-linux-riscv64.release.tar.xz
+bin-sha: 30af2a40fd194fc74d313e2335a151506de5f4920e189b2e21ea446a446c6a84

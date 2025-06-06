@@ -1,5 +1,5 @@
 summary: Portable version of NetBSD make(1)
 webpage: https://www.crufty.net/help/sjg/bmake.html
-version: 20230601 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2023.06.28/bmake-20230601-linux-riscv64.tar.xz 
-bin-sha: 644748c348c5745a63db70905e152ef115111c5c3a318691f139e33c76d5327e
+version: 20250308
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/bmake-20250308-linux-riscv64.release.tar.xz
+bin-sha: ad82e07bc87173104411796a9c5739bd3eeeba99b9f76b2aa01ba1bc10494a27

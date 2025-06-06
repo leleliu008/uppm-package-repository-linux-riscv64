@@ -1,5 +1,5 @@
-summary: General-purpose data compression with high compression ratio
+summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
-version: 5.4.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/xz-5.4.6-linux-riscv64.tar.xz
-bin-sha: 6cefdb2eb3d90d5ac4434d08653b0ee7d47a879431d87c5601455e7ae1bf9a70
+version: 5.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/xz-5.6.3-linux-riscv64.release.tar.xz
+bin-sha: 97e5178bc3f1006f3d4e29337e91539af1d437b91805f255d3ad455cd9da4c1d

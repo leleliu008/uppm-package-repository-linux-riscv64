@@ -1,5 +1,5 @@
-summary: Download with resuming and segmented downloading
+summary: A lightweight multi-protocol & multi-source, cross platform download utility
 webpage: https://aria2.github.io
 version: 1.37.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/aria2-1.37.0-linux-musl-riscv64.tar.xz
-bin-sha: bb84b12f7eb1c736e0f9a4be9ccc7b8f7fc0b5b4eed408b66c3ac439e78828a2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/aria2-1.37.0-linux-riscv64.release.tar.xz
+bin-sha: fe38daabd67190386e998950302f9d37c52efceb9b7413190c37d4894bb7ce29

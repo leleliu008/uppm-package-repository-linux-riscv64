@@ -1,5 +1,5 @@
 summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/pkg-config-0.29.2-linux-riscv64.tar.xz
-bin-sha: 400924da87620732e0e05375da84973f975a537ea4f86be139d453d781f77731
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/pkg-config-0.29.2-linux-riscv64.release.tar.xz
+bin-sha: 4f491f14f90fafa3cb3517bcb1ded3a141810eec22a20342605d59025a2e7434

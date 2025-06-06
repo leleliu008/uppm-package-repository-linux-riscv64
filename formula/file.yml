@@ -1,5 +1,5 @@
 summary: A command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
 version: 5.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/file-5.45-linux-riscv64.tar.xz
-bin-sha: f7e2960705ac2965fde19dd3acaad4a39e3644e668cf26427a8cf12d300d7b8c
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/file-5.45-linux-riscv64.release.tar.xz
+bin-sha: dd992e8d72e4bb1694b776c21df3b6e0ac0a16cf44722e2c7af5aa1a175d7795

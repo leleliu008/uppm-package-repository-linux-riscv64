@@ -1,0 +1,5 @@
+summary: Project for generating C bindings from Rust code
+webpage: https://github.com/mozilla/cbindgen
+version: 0.29.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/cbindgen-0.29.0-linux-riscv64.release.tar.xz
+bin-sha: fe3da915d9c4ca5d93145e3ef3efd0f15b7993528b4b6709af5ed96b33a382bc

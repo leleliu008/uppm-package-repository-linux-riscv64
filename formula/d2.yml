@@ -1,5 +1,5 @@
 summary: A modern diagram scripting language that turns text to diagrams
 webpage: https://github.com/terrastruct/d2
-version: 0.6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/d2-0.6.6-linux-riscv64.tar.xz
-bin-sha: b27b92b50f151495e268bece145c6a216e24e36d306c8b2f28ad02800130c521
+version: 0.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/d2-0.7.0-linux-riscv64.release.tar.xz
+bin-sha: cb0ef02cd2c5e1b1a706810f82ba4f74ca0f6d36198c3d7736f3829fc0b12a88

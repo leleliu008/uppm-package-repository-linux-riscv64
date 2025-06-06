@@ -1,5 +1,5 @@
 summary: A small build system with a focus on speed
 webpage: https://ninja-build.org/
-version: 1.11.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/ninja-1.11.1-linux-riscv64.tar.xz
-bin-sha: 03e97e0c062853be981739c68ee0eb43f965075240c0dc6fd0925a5f3ec93ade
+version: 1.12.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/ninja-1.12.1-linux-riscv64.release.tar.xz
+bin-sha: ad1e40c2a16f11fc27fc884cd40822d3598f263eab171d8de197abc9a78f2040

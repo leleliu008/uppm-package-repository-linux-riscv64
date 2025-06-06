@@ -1,5 +1,5 @@
 summary: Diagnostic, instructional, and debugging tool for the Linux kernel
 webpage: https://strace.io/
-version: 6.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/strace-6.8-linux-riscv64.tar.xz
-bin-sha: 80ea83be4f6126f8253fa3d74456bea192b970ae275f1fcb0bdcc73293d0635c
+version: 6.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/strace-6.13-linux-riscv64.release.tar.xz
+bin-sha: 2068c7b2e3ccd6da1c31dbd4bf9a28d50152a03c4bd73c093496b24172d6e4a5

@@ -1,5 +1,5 @@
-summary: A command-line tool to get your system information
-webpage: https://github.com/leleliu008/C-examples
-version: 2024.08.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/sysinfo-2024.08.15-linux-riscv64.tar.xz
-bin-sha: f6c23d654d2c729038552634e7f0bdc075c27b7414645d2867a9fd0a1c85a623
+summary: A command-line utility to print your currently running system information
+webpage: https://github.com/leleliu008/sysinfo
+version: 2025.06.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/sysinfo-2025.06.06-linux-riscv64.release.tar.xz
+bin-sha: 3b271e7f163a40c5be754b09580becdf5924332113a5a40085286e75b3c5a887

@@ -1,5 +1,5 @@
 summary: base16 encoder and decoder
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.08.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/base16-2024.08.15-linux-riscv64.tar.xz
-bin-sha: a3624bc435397ea26faaa5f8fbf2e928977fdaae16fdd26e0201bc37f3764414
+version: 2025.06.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/base16-2025.06.06-linux-riscv64.release.tar.xz
+bin-sha: 38a13ef61a92929032e71249feca51372c754081deb6e0d8a7b8369759a4e3f7

@@ -1,0 +1,5 @@
+summary: grpc plugins
+webpage: https://grpc.io
+version: 1.71.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/grpc-plugins-1.71.0-linux-riscv64.release.tar.xz
+bin-sha: 721500c26e36922ba405c55542d04ac7a9287fe9a35f66f168c00ce6f6da1ebf

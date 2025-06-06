@@ -1,5 +1,5 @@
 summary: File comparison utilities
 webpage: https://www.gnu.org/software/diffutils
 version: 3.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2024.08.16/diffutils-3.10-linux-riscv64.tar.xz
-bin-sha: 1151c63c094934c49abe460a565f7a390b9599141149d9fa264b7765e891cc57
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/diffutils-3.10-linux-riscv64.release.tar.xz
+bin-sha: 3b03eef9a9f57d41c33439b913fb47651586bd65b0ea61e5dd83134336915de4

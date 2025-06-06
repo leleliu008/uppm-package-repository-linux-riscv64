@@ -1,0 +1,5 @@
+summary: A command-line DNS client
+webpage: https://dns.lookup.dog/
+version: 0.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-riscv64/releases/download/2025.06.06/dog-0.1.0-linux-riscv64.release.tar.xz
+bin-sha: 8ba75fe7dfc2a115dad07084e2b347887982dcee72a445e39e34d5c7af1010f5
