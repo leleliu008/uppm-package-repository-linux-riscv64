@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+bin-url: https://go.dev/dl/go1.26.9.linux-riscv64.tar.gz
+bin-sha: 05cc69a7d000154d5913527bbb6cbad89808fb7362e5ab83949b1a269112665e
+version: 1.26.9
